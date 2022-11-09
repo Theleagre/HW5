@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         //задание 1 и 2
-        System.out.println("Задание 1 и 2");
+        System.out.println("Задание 1 и 2 вместе");
         int clientOS = 1;
         int clientDeviceYear = 2015;
         if (clientOS == 0) {
